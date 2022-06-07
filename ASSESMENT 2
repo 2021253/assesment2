@@ -1,0 +1,184 @@
+#HOMEPAGE
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>ASSESMENT 2</title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    </center>
+    <ul>
+
+        <li><a href="html1.html">Clash of Clans</a></li>
+        <li><a href="html2.html">Call of Duty Mobile</a></li>
+        <li><a href="html3.html">Mobile Legends</a></li>
+        <li><a href="html4.html">Valorant</a></li>
+        <li><a href="html5.html">Apex</a></li>
+        <
+    </ul>
+    </center>
+    <h1>
+        ONLINE GAMES
+    </h1>
+</body>
+</html>
+
+#PAGE1
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    </center>
+    <ul>
+
+        <li><a href="html1.html">Clash of Clans</a></li>
+        <li><a href="html2.html">Call of Duty Mobile</a></li>
+        <li><a href="html3.html">Mobile Legends</a></li>
+        <li><a href="html4.html">Valorant</a></li>
+        <li><a href="html5.html">Apex</a></li>
+        <
+    </ul>
+    </center>
+    <div class="container">
+        <img src="coc logo.png" width="800px;" />
+        <div class="text">
+            CONSTANTLY EVOLVING
+            Clash of Clans has been constantly evolving to offer more user-friendly 
+            consistent and fun online experiences for Supercell gamersThere have been countless updates since the game launched in 2012.
+
+        </div>
+        
+
+
+
+</body>
+</html>
+
+#PAGE2
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    </center>
+    <ul>
+
+        <li><a href="html1.html">Clash of Clans</a></li>
+        <li><a href="html2.html">Call of Duty Mobile</a></li>
+        <li><a href="html3.html">Mobile Legends</a></li>
+        <li><a href="html4.html">Valorant</a></li>
+        <li><a href="html5.html">Apex</a></li>
+        <
+    </ul>
+    </center>
+    <div class="container">
+        <img src="codm logo.png" width="800px;" />
+        <div class="text">
+            Call of Duty: Mobile is a free-to-play shooter game developed by TiMi Studio Group and published by Activision for Android and iOS. 
+            It was released on October 1, 2019, where it was one of the largest mobile game launches in history, generating over US$480 million with 270 million downloads within a year.
+        </div>
+        </div>
+
+
+
+</body>
+</html>
+
+#PAGE3
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    </center>
+    <ul>
+
+        <li><a href="html1.html">Clash of Clans</a></li>
+        <li><a href="html2.html">Call of Duty Mobile</a></li>
+        <li><a href="html3.html">Mobile Legends</a></li>
+        <li><a href="html4.html">Valorant</a></li>
+        <li><a href="html5.html">Apex</a></li>
+        <
+    </ul>
+    </center>
+    <div class="container">
+        <img src="ml logo.png" width="800px;" />
+        <div class="text">
+            Mobile Legends is a 5v5 MOBA for handheld devices that offers a variety of playable heroes, game modes, and intense, fast-paced gameplay. 
+            With controls optimized for touchscreen devices, players can quickly get set up to play a match against other players in real time.
+            Pros: +Beginner-friendly tutorials.
+        </div>
+    </div>
+
+
+
+</body>
+</html>
+
+#PAGE4
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    </center>
+    <ul>
+
+        <li><a href="html1.html">Clash of Clans</a></li>
+        <li><a href="html2.html">Call of Duty Mobile</a></li>
+        <li><a href="html3.html">Mobile Legends</a></li>
+        <li><a href="html4.html">Valorant</a></li>
+        <li><a href="html5.html">Apex</a></li>
+        <
+    </ul>
+    </center>
+    <div class="container">
+        <img src="valorant logo.png" width="800px;" />
+        <div class="text">
+            Valorant is a tactical shooting game involving two teams with 5 players in each team. 
+            Every player can sign in and play remotely from anywhere in the world. Every game has 25 rounds and the team that wins 13 of them first wins the game.
+            Players can choose their in-game characters called agents at the start of the game.
+        </div>
+    </div>
+
+#PAGE5
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="StyleSheet.css">
+</head>
+<body>
+    </center>
+    <ul>
+
+        <li><a href="html1.html">clash of clans</a></li>
+        <li><a href="html2.html">call of duty mobile</a></li>
+        <li><a href="html3.html">mobile legends</a></li>
+        <li><a href="html4.html">valorant</a></li>
+        <li><a href="htmlpage.html">HomePage</a></li>
+        <
+    </ul>
+    </center>
+    <div class="container">
+        <img src="apex logo.png" width="800px;" />
+        <div class="text">
+            Apex Legends is an online multiplayer battle royale game featuring squads of three players using pre-made characters with distinctive abilities, called "Legends", similar to those of hero shooters.
+            Alternate modes have been introduced allowing for single and for two-player squads since the game's release.
+        </div>
+    </div>
